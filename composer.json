@@ -1,5 +1,5 @@
 {
-  "name": "magemaven/lesscss",
+  "name": "ambimax/magento-module-magemaven-lesscss",
   "type": "magento-module",
   "license":"OSL-3.0",
   "description":"On-the-fly LESS compiler for Magento 1."
